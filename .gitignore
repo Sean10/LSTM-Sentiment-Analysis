@@ -1,0 +1,8 @@
+*.txt
+models/
+negativeReviews/
+positiveReviews/
+tensorboard/
+wordsList.npy
+wordVectors.npy
+.DS_Store
